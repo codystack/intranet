@@ -1,0 +1,17 @@
+{
+    "name": "thankgodokoro/intranet",
+    "require-dev": {
+        "phpmailer/phpmailer": "^6.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "Thankgodokoro\\Intranet\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "www.webify.com.ng"
+        }
+    ],
+    "require": {}
+}
